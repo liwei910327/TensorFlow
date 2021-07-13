@@ -1,2 +1,2 @@
-# TensorFlow
-TensorFlow 2 Tutorial
+# TensorFlow Tutorial
+Record of study process of TensorFlow
